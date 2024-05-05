@@ -1,0 +1,24 @@
+{
+  "name": "middlewares",
+  "version": "1.0.0",
+  "description": "middlewares",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barisdilekci/middlewares.git"
+  },
+  "author": "Baris Dilekci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barisdilekci/middlewares/issues"
+  },
+  "homepage": "https://github.com/barisdilekci/middlewares#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
